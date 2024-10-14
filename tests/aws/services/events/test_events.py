@@ -1680,3 +1680,6 @@ class TestEventTarget:
                 {"Id": target_id, "Arn": queue_arn, "InputPath": "$.detail"},
             ],
         )
+
+
+# new dummy line to update cached
